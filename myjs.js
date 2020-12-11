@@ -1,3 +1,5 @@
+console.log("test"); 
+
 let cartBtn = document.querySelector('#cart-info'); 
 let cart = document.querySelector('#cart'); 
 let addToCartBtns = document.querySelectorAll('.fa-shopping-cart'); 
